@@ -1,6 +1,6 @@
 // Author: Luan or @Eternal and Swaggie :)
 
-const Player = new NativeClass ('Terrarai','Player');
+const Player = new NativeClass ('Terraria','Player');
 const UpdateEquips = Player['void UpdateEquips(int i)'];
 
 Player.UpdateArmorSets.hook((original, self, i) => { // speedMod
