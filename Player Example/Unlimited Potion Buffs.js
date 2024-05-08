@@ -1,4 +1,4 @@
-
+// author 01Eternal
 const Player = new NativeClass('Terraria', 'Player');
 const ItemID = new NativeClass('Terraria.ID', 'BuffId');
 
