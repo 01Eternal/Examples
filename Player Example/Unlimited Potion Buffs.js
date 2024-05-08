@@ -8,3 +8,4 @@ original(self);
 
 self.AddBuff(BuffID.Panic, 60, true, false);
 });
+
