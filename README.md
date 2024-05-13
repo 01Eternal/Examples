@@ -1,2 +1,2 @@
 # TL Examples
-examples to tl pro modders begginers
+examples to tl pro modders to begginers
