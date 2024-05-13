@@ -26,5 +26,6 @@ orginal(self, type, spawnparams)
       break;
     case NPCID.Slime: // other type with NPCID
       break;
+      
   }
 });
