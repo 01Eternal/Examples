@@ -4,7 +4,7 @@ const SetDefaults = Item["void SetDefaults(int Type, bool noMatCheck, ItemVarian
 NPC.SetDefaults.hook((orginal, self, type, spawnparams) => {
 orginal(self, type, spawnparams)
 
-self.defaultSpawnRate *= 50;
+self.defaultSpawnRate *= 50
 
 });
 
